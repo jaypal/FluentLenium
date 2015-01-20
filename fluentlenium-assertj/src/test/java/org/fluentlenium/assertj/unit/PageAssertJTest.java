@@ -26,7 +26,7 @@ import org.mockito.MockitoAnnotations;
 
 import static org.mockito.Mockito.verify;
 
-public class PageFestAssertTest {
+public class PageAssertJTest {
     @Mock
     FluentPage fluentPage;
     @InjectMocks
